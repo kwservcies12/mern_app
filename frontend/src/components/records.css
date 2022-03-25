@@ -1,0 +1,47 @@
+#root div div table.table.table-striped tbody tr td {
+    color: silver;  
+    border-color: silver;
+    font-size: 2.5vh;
+    width: 20vw;
+    justify-content: center;
+    text-align: center;
+}
+#root div div table.table.table-striped tbody tr {
+    justify-content: center;
+}
+
+
+#root div div div#navbarSupportedContent.collapse.navbar-collapse {
+    display: flex;
+    margin-left: 90vw;
+    background-color: transparent;
+    width: 8vw;
+    height: 7.8vh;
+    margin-top: -6.3vh;
+    justify-content: center;
+    position: fixed;
+
+}
+
+
+ .navbar-nav.ml-auto {
+    display: flex;
+    /* margin-left: -50vw; */
+    background-color: transparent;
+    width: 7.5vw;
+    height: 6vh;
+    justify-content: center;
+    /* margin-top: 4vh; */
+
+}
+.collapse.navbar-collapse h1 {
+    display: flex;
+    margin-top: -3.8vh; 
+    background-color: transparent;
+     width: 7vw;
+    height: 5vh; 
+    margin-left: -101.8vw;
+    text-align: center;
+    justify-content: center;
+
+} 
